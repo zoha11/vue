@@ -3,6 +3,6 @@
 <template>
 
 </template>
-<script setup>
+<script lang="ts">
 
 </script>
